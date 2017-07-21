@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 98cae1bbeaa4ef24485639e35e217bd4
+labels:
+- triangle
+- optimize
+- mesh
+- sprite
+timeCreated: 1432517941
+licenseType: Store
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  isOverridable: 0
+  platformData:
+    Any:
+      enabled: 0
+      settings: {}
+    Editor:
+      enabled: 1
+      settings:
+        DefaultValueInitialized: true
+    WindowsStoreApps:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

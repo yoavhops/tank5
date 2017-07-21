@@ -1,0 +1,12 @@
+jumping is possible even in other player turn.
+building buildings is possible takes a few secound from your turn.
+possible building is the weather channel.
+possible bulding is mine field.
+when tank shots follow the bullet(stop the timer).
+you can add background style to the attacks, lava attack will have nice annimation in the BG.
+
+
+
+
+weapons:
+bolling ball - falls down hill
